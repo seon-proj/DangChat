@@ -1,10 +1,7 @@
-langchain_openai
 langchain
-langchain_community
-pip
+langchain_openai
 openai
 python_dotenv
-dotenv
-unstructured
-docx2text
+langchain_openai
+langchain_community
 streamlit
