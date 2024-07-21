@@ -1,9 +1,10 @@
 langchain_openai
 langchain
 langchain_community
-streamlit
+
 openai
 python_dotenv
 dotenv
 unstructured
 docx2text
+streamlit
