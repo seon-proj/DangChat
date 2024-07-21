@@ -5,3 +5,4 @@ python_dotenv
 langchain_openai
 langchain_community
 streamlit
+bs4
