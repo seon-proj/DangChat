@@ -6,9 +6,4 @@ openai
 python_dotenv
 dotenv
 unstructured
-pypdf
-pdf2image
 docx2text
-pdfminer
-beautifulsoup4
-bs4
